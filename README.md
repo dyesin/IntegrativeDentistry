@@ -1,7 +1,7 @@
-IntegrativeDentistry
+Integrative Dentistry
 ====================
 
-Reports builder and Utilities to make Practice Web EMR even better
+Utilities to make Practice-Web EMR even better
 
 Practice-Web is Dental office practice management software based on .NET technology. This sofware has been developed on open-source "Open Dental" platform.
 
