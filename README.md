@@ -13,5 +13,5 @@ I only plan to publish scripts and report builders which I have found useful in 
 
 Feel free to contact me with any questions. I am also available for consulting.
 
-Dmitry
+Dmitry Yesin
 dyesin@gmail.com
