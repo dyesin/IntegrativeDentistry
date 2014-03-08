@@ -1,6 +1,6 @@
 <?php
 $link = mysql_connect('localhost', 'root', '');
-mysql_select_db('freedental');
+mysql_select_db('freedental')
 $query = "select
 	YEAR (apt.AptDateTime) as year,
 	MONTH(apt.AptDateTime) as month,
