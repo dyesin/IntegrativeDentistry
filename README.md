@@ -15,3 +15,5 @@ Feel free to contact me with any questions. I am also available for consulting.
 
 Dmitry Yesin
 dyesin@gmail.com
+
+<img src="https://www.codeship.io/projects/48cf9560-88b7-0131-ee37-5efdab17ed40/status"/>
