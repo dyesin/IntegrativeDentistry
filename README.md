@@ -7,9 +7,9 @@ Practice-Web is Dental office practice management software based on .NET technol
 
 Practice-Web is using mySQL as its main database. It has been very easy to connect and build missing reports as well as to build data visualization.
 
-This project is not meant to replace core functionality of Practice-Web but rather create enhance it with reports and charts, which might be useful in analyzing patient and financial data.
+This project is not meant to replace core functionality of Practice-Web but rather enhance it with reports and charts useful in analyzing patient and financial data.
 
-I only plan to publish scripts and report builders which I have found useful in analyzing busy dental practice in San Francisco.
+I plan to publish scripts and report builders which I have found useful in analyzing busy dental practice in San Francisco.
 
 Feel free to contact me with any questions. I am also available for consulting.
 
