@@ -1,22 +1,13 @@
 language: php
 
-php:
-  - 5.3
-  - hhvm
-
-before_install:
-  - travis_retry composer self-update
-install:
-  - travis_retry composer install --no-interaction --prefer-source
 
 # Commands you want to run that will verify your build.
-script: phpunit
+script: find . -name \*.php -exec php -l "{}" \; | grep 'PHP Parse error'
 
 # allow_failures: Allow this build to fail under the specified environments.
 # fast_finish: If your build fails do not continue trying to build, just stop.
 matrix:
   allow_failures:
-    - php: 5.3
     - php: hhvm
   fast_finish: true
 
