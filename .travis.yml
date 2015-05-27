@@ -4,10 +4,10 @@ php:
   - 5.3
   - hhvm
 
-# Commands to be run before your environment runs.
-before_script:
-  - composer self-update
-  - composer install --prefer-source --no-interaction --dev
+before_install:
+  - travis_retry composer self-update
+install:
+  - travis_retry composer install --no-interaction --prefer-source
 
 # Commands you want to run that will verify your build.
 script: phpunit
