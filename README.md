@@ -13,6 +13,6 @@ I plan to publish scripts and report builders which I have found useful in analy
 
 Feel free to contact me with any questions. I am also available for consulting.
 
-Dmitry Yesin
-dyesin@gmail.com
+
+dyesin@dyconsulting.com
 
